@@ -23,8 +23,8 @@
 
 ## Hyper parameter tuning
 ### How much better did your model preform after trying different hyper parameters?
-- In general, my model preforms better after trying different hyper parameters for "GBM,XT,XGB,NN". However, if I just finetune "GBM,NN" or more "GBM,KNN,XT,XGB,RF,NN", it does not really help improve the performance.
-
+- In general, my model preforms better after trying different hyper parameters for "GBM, XT, XGB, NN". However, if I just finetune "GBM, NN" or more "GBM, KNN, XT, XGB, RF, NN", it does not really help improve the performance.
+ 
 ### If you were given more time with this dataset, where do you think you would spend more time?
 - I would investigate additional hyperparameters and other settings as well as times/number of trials. If AutoGluon has addtional time/number of trials with a high quality preset, the hyperparameter tuning can be enhanced.
 
